@@ -1,2 +1,2 @@
 # iptv-playlists
-IPTV Playlists
+IPTV Playlists collection.
